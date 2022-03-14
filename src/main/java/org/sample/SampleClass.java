@@ -8,6 +8,9 @@ public class SampleClass {
 System.out.println("Test A1");
 System.out.println("Test A2");
 System.out.println("Test A3");
+
+System.out.println("Test A4");
+System.out.println("Test A5");
 	}
 
 	
